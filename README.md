@@ -1,4 +1,4 @@
 # hello-world
 test
-My nme is Sergey.
+My name is Sergey.
 I'm use a GitHub at first time.
